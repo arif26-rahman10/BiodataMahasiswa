@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Input Data Mahasiswa</string>
+    <string name="hint_nim">NIM</string>
+    <string name="hint_nama">Nama</string>
+    <string name="hint_jurusan">Jurusan</string>
+    <string name="hint_prodi">Prodi</string>
+    <string name="hint_kelas">Kelas</string>
+    <string name="hint_nilai_uts">Nilai UTS</string>
+    <string name="hint_nilai_uas">Nilai UAS</string>
+    <string name="hint_no_hp">Nomor HP</string>
+    <string name="button_submit">Submit</string>
+    <string name="output_placeholder">Output akan muncul di sini</string>
+</resources>
